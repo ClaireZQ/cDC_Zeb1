@@ -7,4 +7,5 @@ Quan Zhang: zq20130908@126.com
 Nengming Xiao: nengming@xmu.edu.cn
 
 # Copyright
+&#169
 2023 Quan Zhang. Xiao lab. All rights reserved.
